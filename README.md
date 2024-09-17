@@ -2,4 +2,6 @@
 
 A lab on unit testing (with some Maven structure).
 
-This code may be found at <https://github.com/Grinnell-CSC207/partition-experiments>.
+Names: Natalie Nardone and Sheilla Muligande
+
+This code may be found at <
